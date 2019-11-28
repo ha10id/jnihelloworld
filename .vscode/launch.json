@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "ru.forwolk.test.Main",
+            "projectName": "jnihelloworld_3900ff9e"
+        }
+    ]
+}
